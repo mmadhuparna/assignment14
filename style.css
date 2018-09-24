@@ -21,8 +21,7 @@ span{
 .status{
     text-transform: uppercase;
     width: 20%;
-    
-}
+  }
 .title{
         font-weight: bold;
         letter-spacing: 1px; 
@@ -75,6 +74,5 @@ ul li{
     color: rgb(214, 94, 94);
     text-transform: uppercase;
     font-style: italic;
-    font-weight: 900;
-            
+    font-weight: 900;      
 }

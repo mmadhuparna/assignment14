@@ -1,4 +1,3 @@
-
 window.onload = function () {
 
     //selecting the html element using id
