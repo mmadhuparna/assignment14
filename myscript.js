@@ -14,7 +14,7 @@ var xhr = new XMLHttpRequest();
      xhr.onreadystatechange = function() {
          if(xhr.readyState === 4 && xhr.status === 200) {
             flight = JSON.parse(xhr.responseText);
-            render(flight);
+            render();
         }
      }
 
